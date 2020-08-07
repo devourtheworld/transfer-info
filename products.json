@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "pic": "waves.jpg",
+        "name": "product 1",
+        "text": "text for product num 1" ,
+        "price": 1
+    },
+    {
+        "id": "2",
+        "pic": "waves.jpg",
+        "name": "product 2",
+        "text": "text for product num 2" ,
+        "price": 2
+    },
+    {
+        "id": "3",
+        "pic": "waves.jpg",
+        "name": "product 3",
+        "text": "text for product num 3" ,
+        "price": 3
+    },
+    {
+        "id": "4",
+        "pic": "waves.jpg",
+        "name": "product 4",
+        "text": "text for product num 4" ,
+        "price": 4
+    },
+    {
+        "id": "5",
+        "pic": "waves.jpg",
+        "name": "product 5",
+        "text": "text for product num 5" ,
+        "price": 5
+    },
+    {
+        "id": "6",
+        "pic": "waves.jpg",
+        "name": "product 6",
+        "text": "text for product num 6" ,
+        "price": 6
+    },
+    {
+        "id": "7",
+        "pic": "waves.jpg",
+        "name": "product 7",
+        "text": "text for product num 7" ,
+        "price": 7
+    }
+]
