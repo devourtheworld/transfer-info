@@ -69,8 +69,11 @@ class ProductList {
     handleProductBuyClick(event) {
       const button = event.target;
       const id = button.dataset.id;
+      const init = function(e){
+        let spn = document.querySelector(".card-title")
+        spn.innerHTML = "123";
+      };
       this.cart.addProduct(id);
       window.showAlert('Product added to cart');
     }
   }
-  
